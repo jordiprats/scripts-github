@@ -1,6 +1,6 @@
 # scripts-github
 
-My digital Diogenes sindrome
+My digital Diogenes syndrome
 
 ## token.sh
 
